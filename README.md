@@ -1,2 +1,0 @@
-# Demoproject
-created demo purpose
